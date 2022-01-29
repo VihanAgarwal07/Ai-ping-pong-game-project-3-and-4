@@ -1,0 +1,16 @@
+body
+{
+background-image:url("background1.jpg") ;
+}
+.btn-default{
+    background-color: black;
+    color:white;
+    font-size: 25px;
+}
+.Heading{
+    width:100%;
+float:left;
+}
+canvas{
+    border: dotted blue;
+}
